@@ -3,6 +3,14 @@ Python-Tweet-Dump
 
 Dumping My Twitter Python Scripts for any one to alter or use.
 
+Needed to Install
+----
+
+```
+sudo apt-get update
+sudo apt-get install python-setuptools -y
+sudo pip install websocket-client requests python-magic tweepy
+
 All Scripts will require the following to be changed.
 
 
